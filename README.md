@@ -1,3 +1,5 @@
+Not everything is public. Some of my important repositories are private. 😉
+
 Hello, I'm **Olivia Bennett**, a UI/UX and web designer passionate about creating elegant, modern, and user-focused digital interfaces. My goal is to design websites that are not only visually appealing but also intuitive, accessible, and optimized for performance. I focus on responsive layouts, scalable design systems, and interactive UI components that enhance user experience.
 
 <p align="center">
